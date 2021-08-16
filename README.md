@@ -38,7 +38,7 @@ into any of these filter entry boxes. For a cleaner interface, the original
 |--------------------------|----------------------------------------|
 | `datetime`               | Gregorian Calendar date, Formatted as 'mm/dd/yyyy'
 | `city`                   | City of observation [lowercase]
-| `state`                  | US State of observation [lowercase]
+| `state`                  | State or Province of observation [lowercase]
 | `country`                | Country of observation [lowercase]
 | `shape`                  | Shape of observation [lowercase]
 | `durationMinutes`        | Description of duration of observation, in minutes. Field is free text, and standards on original input have been loosely enforced. [lowercase, limited format orthodoxy]
